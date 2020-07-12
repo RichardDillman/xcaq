@@ -1,16 +1,11 @@
-### Hi there 👋
+## Hey. I'm **Kirill** & I ❤️ code.
+Currently i work at private orders but i always open for **[cooperation](https://telegram.org/xxcaq)**.
+<br> My stack:
+* **Python** ( Middle )
+* **C#** ( Junior )
+* **Golang** ( Intern )
+##
+You can connect with me using **[telegram](https://telegram.org/xxcaq)** or **[email](mailto:git.xcaq@gmail.com)**.
+<br>
+Other – **[gothboy.me](gothboy.me)**
 
-<!--
-**xcaq/xcaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
