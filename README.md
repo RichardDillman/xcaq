@@ -7,5 +7,5 @@ Currently i work at private orders but i always open for cooperation.
 ##
 You can connect with me using **[telegram](https://telegram.org/xxcaq)** or **[email](mailto:git.xcaq@gmail.com)**.
 <br>
-Other – **[gothboy.me](gothboy.me)**
+Other – **[gothboy.me](https://gothboy.me)**
 
