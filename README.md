@@ -1,5 +1,5 @@
 ## Hey. I'm **Kirill** & I ❤️ code.
-Currently i work at private orders but i always open for **[cooperation](https://telegram.org/xxcaq)**.
+Currently i work at private orders but i always open for cooperation.
 <br> My stack:
 * **Python** ( Middle )
 * **C#** ( Junior )
