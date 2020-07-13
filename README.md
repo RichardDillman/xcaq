@@ -1,14 +1,14 @@
 
-<h2>Привет. I'm Kirill & I ❤️ code.</h2>
-<h4>Currently i work at private orders but i always open for cooperation. | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h2>Ola. I'm Kirill & I ❤️ code.</h2>
+<h4>Currently i work at private orders but i always open for cooperation. | Watch me on: <a href="http://twitch.tv/0gothboy0">Twitch <img src="https://camo.githubusercontent.com/c498d846a7be14c18a40249e3169b40671072cac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" width="10"></a></h4>
 <h5>Latest follower – <a href="https://github.com/commit-helper/" target="_blank">commit-helper</a> 👋🏻</h5>
 <table>
   <tr>
     <td valign="top">
       <b>⭐️&ensp;Most starred repos: </b>
       <br>
-            <h6>⭐️ 4 | 👁 15 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️ 1 | 👁 15 – <a href='https://github.com/xcaq/discord-multi-bot'>discord-multi-bot</a></h6> 
+            <h6>⭐️&nbsp;4 | 👁&nbsp;15 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;1 | 👁&nbsp;15 – <a href='https://github.com/xcaq/discord-multi-bot'>discord-multi-bot</a></h6> 
     </td>
     <td valign="top">
       <b>📚&ensp;My stack: </b>
@@ -20,13 +20,13 @@
      <td valign="top">
       <b>🗄&ensp;New repositories: </b>
       <br>
-           <h6>⭐️ 0 – <a href='https://github.com/xcaq/xcaq'>xcaq/xcaq</a></h6> 
-      <h6>⭐️ 0 – <a href='https://github.com/xcaq/aiohttp'>xcaq/aiohttp</a></h6> 
-      <h6>⭐️ 0 – <a href='https://github.com/xcaq/react-native'>xcaq/react-native</a></h6> 
+           <h6>⭐️&nbsp;0 – <a href='https://github.com/xcaq/xcaq'>xcaq/xcaq</a></h6> 
+      <h6>⭐️&nbsp;0 – <a href='https://github.com/xcaq/aiohttp'>xcaq/aiohttp</a></h6> 
+      <h6>⭐️&nbsp;0 – <a href='https://github.com/xcaq/react-native'>xcaq/react-native</a></h6> 
         </td>
   </tr>
 </table>
-<h3 align="center">⏰ 13 Monday, 10:48</h3>
+<h3 align="center">⏰ 13 Monday, 10:49</h3>
 <hr>
 <h4 align="center">Other – <a href='http://gothboy.me' target="_blank">gothboy.me</a><h4>
     
