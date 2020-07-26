@@ -1,6 +1,6 @@
 
-<h2>你好. I'm Kirill & I ❤️ code.</h2>
-<h4>Currently i work at private orders but i always open for cooperation. | Watch me on: <a href="http://twitch.tv/0gothboy0">Twitch <img src="https://camo.githubusercontent.com/c498d846a7be14c18a40249e3169b40671072cac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" width="10"></a></h4>
+<h2>Hey. I'm Kirill & I ❤️ code.</h2>
+<h4>Currently i work at private orders but i always open for cooperation. | Read me using: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
 <h5>Latest follower – <a href="https://github.com/catofsof/" target="_blank">Kirill Link</a> 👋🏻</h5>
 <table>
   <tr>
@@ -19,7 +19,7 @@
      <td valign="top">
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;253 – <a href='https://github.com/xcaq/SpotiTransfer'>SpotiTransfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;129 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;118 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;3 – <a href='https://github.com/xcaq/aiohttp'>aiohttp</a></h6> 
         </td>
   </tr>
