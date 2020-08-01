@@ -1,7 +1,7 @@
 
-<h2>Ahoj. I'm Kirill & I ❤️ code.</h2>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me using: <a href="https://telegram.org/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
-<h5>⏰ 01 Saturday, 10:14 | Latest follower – <a href="https://github.com/catofsof/" target="_blank">Kirill Link</a> 👋🏻</h5>
+<h2>Ola. I'm Kirill & I ❤️ code.</h2>
+<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h5>⏰ 01 Saturday, 10:16 | Latest follower – <a href="https://github.com/catofsof/" target="_blank">Kirill Link</a> 👋</h5>
 <table>
   <tr>
     <td valign="top">
@@ -24,6 +24,40 @@
         </td>
   </tr>
 </table>
+<table>
+                <tr>
+                    <td width=220px;>
+                        Python
+                    </td>
+                    <td>
+                        20 hrs 48 mins
+                    </td>
+                    <td>
+                        ████████████████░░░░&nbsp;&nbsp;(82.19 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        CSS
+                    </td>
+                    <td>
+                        1 hr 59 mins
+                    </td>
+                    <td>
+                        ░░░░░░░░░░░░░░░░░░░░&nbsp;&nbsp;(7.85 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        HTML
+                    </td>
+                    <td>
+                        1 hr 49 mins
+                    </td>
+                    <td>
+                        ░░░░░░░░░░░░░░░░░░░░&nbsp;&nbsp;(7.21 %)
+                    </td>
+                </tr></table>
 <hr>
 <h4 align="center">Other – <a href='http://gothboy.me' target="_blank">gothboy.me</a><h4>
     
