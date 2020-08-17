@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        4 hrs 59 mins
+                        6 hrs 4 mins
                     </td>
                     <td>
-                        ████░░░░░░&nbsp;&nbsp;(47.93 %)
+                        ████░░░░░░&nbsp;&nbsp;(44.19 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,10 +44,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        2 hrs 59 mins
+                        4 hrs 1 min
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(28.7 %)
+                        ██░░░░░░░░&nbsp;&nbsp;(29.25 %)
                     </td>
                 </tr>
                 <tr>
@@ -55,10 +55,10 @@
                         CSS
                     </td>
                     <td width=145px;>
-                        2 hrs 24 mins
+                        3 hrs 37 mins
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(23.1 %)
+                        ██░░░░░░░░&nbsp;&nbsp;(26.36 %)
                     </td>
                 </tr></table>
 <hr>
