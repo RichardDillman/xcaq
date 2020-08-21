@@ -9,7 +9,7 @@
     <td valign="top">
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;20 – <a href='https://github.com/xcaq/SpotiTransfer'>SpotiTransfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;53 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;54 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;23 – <a href='https://github.com/xcaq/discord-multi-bot'>discord-multi-bot</a></h6> 
     </td>
     <td valign="top">
