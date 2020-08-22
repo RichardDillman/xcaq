@@ -1,7 +1,7 @@
 
-<h1>Guten Tag. I'm Kirill & I ❤️ code.</h1>
+<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me using: <a href="https://telegram.org/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
-<h5>⏰ 22 Saturday, 08:13 | Latest follower – <a href="https://github.com/Cy8erEgo/" target="_blank">Cy8erEgo</a> 👋</h5>
+<h5>⏰ 22 Saturday, 08:14 | Latest follower – <a href="https://github.com/Cy8erEgo/" target="_blank">Cy8erEgo</a> 👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -9,7 +9,7 @@
     <td valign="top">
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;16 – <a href='https://github.com/xcaq/SpotiTransfer'>SpotiTransfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;64 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;80 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;15 – <a href='https://github.com/xcaq/discord-multi-bot'>discord-multi-bot</a></h6> 
     </td>
     <td valign="top">
@@ -22,7 +22,7 @@
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;66 – <a href='https://github.com/xcaq/CSES'>CSES</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;16 – <a href='https://github.com/xcaq/SpotiTransfer'>SpotiTransfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;307 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;312 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
         </td>
   </tr>
 </table>
