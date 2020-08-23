@@ -1,5 +1,5 @@
 
-<h1>Guten Tag. I'm Kirill & I ❤️ code.</h1>
+<h1>Hey. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me using: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
 <h5>⏰ 24 Monday, 12:00 | Latest follower – <a href="https://github.com/iamrajee/" target="_blank">Rajendra Singh</a> 👋</h5>
 <hr>
@@ -33,10 +33,10 @@
                         CSS
                     </td>
                     <td>
-                        13 hrs 55 mins
+                        13 hrs 38 mins
                     </td>
                     <td>
-                        ██████░░░░&nbsp;&nbsp;(66.39 %)
+                        ██████░░░░&nbsp;&nbsp;(62.96 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,10 +44,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        4 hrs 28 mins
+                        4 hrs 8 mins
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(21.36 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(19.1 %)
                     </td>
                 </tr>
                 <tr>
@@ -55,10 +55,10 @@
                         Python
                     </td>
                     <td width=145px;>
-                        2 hrs 34 mins
+                        3 hrs 49 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(12.24 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(17.63 %)
                     </td>
                 </tr></table>
 <hr>
