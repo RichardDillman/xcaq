@@ -1,7 +1,7 @@
 
-<h1>Namaste. I'm Kirill & I ❤️ code.</h1>
+<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me using: <a href="https://telegram.org/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
-<h5>⏰ 31 Monday, 12:35 | Latest follower – <a href="https://github.com/macellan401/" target="_blank">Cevdet Bayram</a> 👋</h5>
+<h5>⏰ 31 Monday, 12:36 | Latest follower – <a href="https://github.com/macellan401/" target="_blank">Cevdet Bayram</a> 👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        12 hrs 47 mins
+                        11 hrs 5 mins
                     </td>
                     <td>
-                        █████░░░░░&nbsp;&nbsp;(55.94 %)
+                        █████░░░░░&nbsp;&nbsp;(52.34 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,10 +44,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        6 hrs 39 mins
+                        6 hrs 44 mins
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(29.12 %)
+                        ███░░░░░░░&nbsp;&nbsp;(31.85 %)
                     </td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
                         2 hrs 55 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(12.82 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(13.84 %)
                     </td>
                 </tr></table>
 <hr>
