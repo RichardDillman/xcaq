@@ -10,7 +10,7 @@
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;3&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;916 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;54 – <a href='https://github.com/xcaq/SpotiTransfer'>SpotiTransfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;250 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;251 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
