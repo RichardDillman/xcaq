@@ -1,7 +1,7 @@
 
-<h1>Hey. I'm Kirill & I ❤️ code.</h1>
+<h1>Shalom. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me using: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
-<h5>⏰ 03 Thursday, 10:07 | Latest follower – <a href="https://github.com/teevyne/" target="_blank">Tolulope Ayemobola</a> 👋</h5>
+<h5>⏰ 03 Thursday, 10:08 | Latest follower – <a href="https://github.com/teevyne/" target="_blank">Tolulope Ayemobola</a> 👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -47,7 +47,7 @@
                         3 hrs 15 mins
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(28.9 %)
+                        ██░░░░░░░░░&nbsp;&nbsp;(28.9 %)
                     </td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
                         1 hr 52 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(16.68 %)
+                        █░░░░░░░░░░&nbsp;&nbsp;(16.68 %)
                     </td>
                 </tr></table>
 <hr>
