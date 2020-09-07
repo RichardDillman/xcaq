@@ -1,5 +1,5 @@
 
-<h1>Tervist. I'm Kirill & I ❤️ code.</h1>
+<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me using: <a href="https://t.me/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
 <h5>⏰ 08 Tuesday, 12:00 | Latest follower – <a href="https://github.com/DipanwitaManna16/" target="_blank">Dipanwita Manna</a> 👋</h5>
 <hr>
@@ -30,24 +30,24 @@
 <table>
                 <tr>
                     <td width=215px;>
-                        HTML
+                        Python
                     </td>
                     <td>
-                        2 hrs 24 mins
+                        2 hrs 34 mins
                     </td>
                     <td>
-                        █████░░░░░&nbsp;&nbsp;(59.38 %)
+                        ████░░░░░░&nbsp;&nbsp;(48.21 %)
                     </td>
                 </tr>
                 <tr>
                     <td width=220px;>
-                        Python
+                        HTML
                     </td>
                     <td width=145px;>
-                        1 hr 25 mins
+                        2 hrs 31 mins
                     </td>
                     <td width=230px;>
-                        ███░░░░░░░░&nbsp;&nbsp;(35.13 %)
+                        ████░░░░░░░&nbsp;&nbsp;(47.37 %)
                     </td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
                         11 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(4.87 %)
+                        ░░░░░░░░░░░&nbsp;&nbsp;(3.71 %)
                     </td>
                 </tr></table>
 <hr>
