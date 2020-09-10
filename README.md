@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;837 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;834 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;42 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;86 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
     </td>
@@ -22,7 +22,7 @@
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;27 – <a href='https://github.com/xcaq/CSES'>CSES</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;42 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;834 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;837 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
         </td>
   </tr>
 </table>
