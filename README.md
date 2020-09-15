@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        4 hrs 40 mins
+                        4 hrs 46 mins
                     </td>
                     <td>
-                        █████████░&nbsp;&nbsp;(95.73 %)
+                        █████████░&nbsp;&nbsp;(95.82 %)
                     </td>
                 </tr>
                 <tr>
@@ -47,7 +47,7 @@
                         7 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(2.73 %)
+                        ░░░░░░░░░░░&nbsp;&nbsp;(2.66 %)
                     </td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
                         2 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(0.85 %)
+                        ░░░░░░░░░░░&nbsp;&nbsp;(0.84 %)
                     </td>
                 </tr></table>
 <hr>
