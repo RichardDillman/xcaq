@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;790 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;789 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;23 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;155 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
     </td>
