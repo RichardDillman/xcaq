@@ -22,7 +22,7 @@
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;35 – <a href='https://github.com/xcaq/CSES'>CSES</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;17 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;727 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;725 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
         </td>
   </tr>
 </table>
