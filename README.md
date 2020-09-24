@@ -1,17 +1,17 @@
 
-<h1>Namaste. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Read me using: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
-<h5>⏰ 24 Thursday, 11:59 | Latest follower – <a href="https://github.com/KonradLinkowski/" target="_blank">Konrad Linkowski</a> 👋</h5>
+<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Watch me on: <a href="http://twitch.tv/0gothboy0">Twitch <img src="https://camo.githubusercontent.com/c498d846a7be14c18a40249e3169b40671072cac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" width="10"></a></h4>
+<h5>⏰ 25 Friday, 12:00 | Latest follower – <a href="https://github.com/KonradLinkowski/" target="_blank">Konrad Linkowski</a> 👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;599 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;597 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;3 – <a href='https://github.com/xcaq/telegram-qr-bot'>telegram-qr-bot</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;13 – <a href='https://github.com/xcaq/spotify-transfer'>spotify-transfer</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;117 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;104 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -34,10 +34,10 @@
                         Python
                     </td>
                     <td>
-                        2 hrs 17 mins
+                        2 hrs 15 mins
                     </td>
                     <td>
-                        █████████░&nbsp;&nbsp;(97.54 %)
+                        █████████░&nbsp;&nbsp;(97.52 %)
                     </td>
                 </tr>
                 <tr>
@@ -48,7 +48,7 @@
                         3 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(2.27 %)
+                        ░░░░░░░░░░░&nbsp;&nbsp;(2.31 %)
                     </td>
                 </tr>
                 <tr>
@@ -59,7 +59,7 @@
                         0 secs
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░░&nbsp;&nbsp;(0.11 %)
+                        ░░░░░░░░░░░&nbsp;&nbsp;(0.1 %)
                     </td>
                 </tr></table>
 <hr>
