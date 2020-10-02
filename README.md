@@ -1,6 +1,6 @@
 
-<h1>Hey. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
+<h1>Hola. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
 <h5>⏰ 03 Saturday, 12:00&emsp;|&emsp;Latest follower – <a href="https://github.com/kiriharu/" target="_blank">kiriharu</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
@@ -9,7 +9,7 @@
     <td valign="top">
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;8&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;41 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;459 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;5&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;456 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;118 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
     </td>
     <td valign="top">
@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        12 hrs 51 mins
+                        12 hrs 53 mins
                     </td>
                     <td>
-                        ██████░░░░&nbsp;&nbsp;(61.88 %)
+                        █████░░░░░&nbsp;&nbsp;(55.37 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,10 +44,10 @@
                         CSS
                     </td>
                     <td width=145px;>
-                        5 hrs 20 mins
+                        6 hrs 51 mins
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(25.7 %)
+                        ██░░░░░░░░&nbsp;&nbsp;(29.42 %)
                     </td>
                 </tr>
                 <tr>
@@ -55,10 +55,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        2 hrs
+                        2 hrs 57 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(9.64 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(12.73 %)
                     </td>
                 </tr></table>
 <hr>
