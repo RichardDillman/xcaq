@@ -1,7 +1,7 @@
 
-<h1>Hola. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Watch me: <a href="http://twitch.tv/0gothboy0">Twitch <img src="https://camo.githubusercontent.com/c498d846a7be14c18a40249e3169b40671072cac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667" width="10"></a></h4>
-<h5>⏰ 07 Wednesday, 12:00&emsp;|&emsp;Latest follower – <a href="https://github.com/proghead00/" target="_blank">Susnata Goswami</a>👋</h5>
+<h1>Aloha. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
+<h5>⏰ 07 Wednesday, 12:01&emsp;|&emsp;Latest follower – <a href="https://github.com/proghead00/" target="_blank">Susnata Goswami</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -30,24 +30,24 @@
 <table>
                 <tr>
                     <td width=215px;>
-                        CSS
+                        Python
                     </td>
                     <td>
-                        8 hrs 14 mins
+                        7 hrs 45 mins
                     </td>
                     <td>
-                        █████░░░░░&nbsp;&nbsp;(54.33 %)
+                        ████░░░░░░&nbsp;&nbsp;(42.51 %)
                     </td>
                 </tr>
                 <tr>
                     <td width=220px;>
-                        Python
+                        CSS
                     </td>
                     <td width=145px;>
-                        3 hrs 56 mins
+                        7 hrs 39 mins
                     </td>
                     <td width=230px;>
-                        ██░░░░░░░░&nbsp;&nbsp;(26.0 %)
+                        ████░░░░░░&nbsp;&nbsp;(41.97 %)
                     </td>
                 </tr>
                 <tr>
@@ -55,10 +55,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        2 hrs 47 mins
+                        2 hrs 38 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(18.44 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(14.5 %)
                     </td>
                 </tr></table>
 <hr>
