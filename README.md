@@ -22,7 +22,7 @@
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;130 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;18 – <a href='https://github.com/xcaq/yandex-contest'>yandex-contest</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;52 – <a href='https://github.com/xcaq/CSES'>CSES</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;50 – <a href='https://github.com/xcaq/CSES'>CSES</a></h6> 
         </td>
   </tr>
 </table>
