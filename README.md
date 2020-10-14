@@ -1,7 +1,7 @@
 
-<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
-<h5>⏰ 15 Thursday, 12:00&emsp;|&emsp;Latest follower – <a href="https://github.com/kiriharu/" target="_blank">kiriharu</a>👋</h5>
+<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
+<h5>⏰ 15 Thursday, 12:01&emsp;|&emsp;Latest follower – <a href="https://github.com/kiriharu/" target="_blank">kiriharu</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        19 hrs 32 mins
+                        19 hrs 6 mins
                     </td>
                     <td>
-                        ████████░░&nbsp;&nbsp;(88.86 %)
+                        ████████░░&nbsp;&nbsp;(88.23 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,10 +44,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        2 hrs 19 mins
+                        2 hrs 25 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(10.6 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(11.2 %)
                     </td>
                 </tr>
                 <tr>
