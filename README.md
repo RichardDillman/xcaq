@@ -1,7 +1,7 @@
 
-<h1>Shalom. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
-<h5>⏰ 18 Sunday, 12:00&emsp;|&emsp;Latest follower – <a href="https://github.com/kiriharu/" target="_blank">kiriharu</a>👋</h5>
+<h1>Tervist. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
+<h5>⏰ 18 Sunday, 12:01&emsp;|&emsp;Latest follower – <a href="https://github.com/kiriharu/" target="_blank">kiriharu</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        21 hrs 22 mins
+                        14 hrs 7 mins
                     </td>
                     <td>
-                        ████████░░&nbsp;&nbsp;(89.35 %)
+                        ████████░░&nbsp;&nbsp;(83.86 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,10 +44,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        2 hrs 25 mins
+                        2 hrs 35 mins
                     </td>
                     <td width=230px;>
-                        █░░░░░░░░░&nbsp;&nbsp;(10.15 %)
+                        █░░░░░░░░░&nbsp;&nbsp;(15.37 %)
                     </td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
                         6 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.45 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.63 %)
                     </td>
                 </tr></table>
 <hr>
