@@ -1,16 +1,16 @@
 
-<h1>Tervist. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
-<h5>⏰ 25 Sunday, 07:48&emsp;|&emsp;Latest follower – <a href="https://github.com/nootz1999/" target="_blank">Nutan Kushwah</a>👋</h5>
+<h1>God dag. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
+<h5>⏰ 01 Sunday, 03:12&emsp;|&emsp;Latest follower – <a href="https://github.com/nootz1999/" target="_blank">Nutan Kushwah</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;84 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;511 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;27 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;129 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;472 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;7 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -20,9 +20,9 @@
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;22 – <a href='https://github.com/xcaq/thatsmyvision'>thatsmyvision</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;27 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;6 – <a href='https://github.com/xcaq/yandex-contest'>yandex-contest</a></h6> 
+           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;15 – <a href='https://github.com/xcaq/thatsmyvision'>thatsmyvision</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;24 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;5 – <a href='https://github.com/xcaq/yandex-contest'>yandex-contest</a></h6> 
         </td>
   </tr>
 </table>
@@ -33,21 +33,21 @@
                         Python
                     </td>
                     <td>
-                        16 hrs 26 mins
+                        15 hrs 23 mins
                     </td>
                     <td>
-                        █████████░&nbsp;&nbsp;(99.02 %)
+                        █████████░&nbsp;&nbsp;(91.06 %)
                     </td>
                 </tr>
                 <tr>
                     <td width=220px;>
-                        INI
+                        CSS
                     </td>
                     <td width=145px;>
-                        4 mins
+                        28 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.5 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(2.78 %)
                     </td>
                 </tr>
                 <tr>
@@ -55,10 +55,10 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        2 mins
+                        20 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.29 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(2.06 %)
                     </td>
                 </tr></table>
 <hr>
