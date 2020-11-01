@@ -9,8 +9,8 @@
     <td valign="top">
       <h3>Most starred repos: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;135 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;573 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;24 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;491 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;7 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
@@ -20,8 +20,8 @@
       </td>
      <td valign="top">
       <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;22 – <a href='https://github.com/xcaq/thatsmyvision'>thatsmyvision</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;7 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
+           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;15 – <a href='https://github.com/xcaq/thatsmyvision'>thatsmyvision</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;24 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;5 – <a href='https://github.com/xcaq/yandex-contest'>yandex-contest</a></h6> 
         </td>
   </tr>
