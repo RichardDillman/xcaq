@@ -8,9 +8,9 @@
   <tr>
     <td valign="top">
       <h3>Most starred repos: </h3>
-            <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;129 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;575 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;7 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
+            <h6>⭐️&nbsp;&nbsp;&nbsp;10&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;143 – <a href='https://github.com/xcaq/spotify-to-vk'>spotify-to-vk</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;7&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;482 – <a href='https://github.com/xcaq/xcaq'>xcaq</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;24 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
     </td>
     <td valign="top">
       <h3>My stack: </h3>
