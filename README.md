@@ -21,7 +21,7 @@
      <td valign="top">
       <h3>New repositories: </h3>
            <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;22 – <a href='https://github.com/xcaq/thatsmyvision'>thatsmyvision</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;7 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
+      <h6>⭐️&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;24 – <a href='https://github.com/xcaq/EasyEpub'>EasyEpub</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;5 – <a href='https://github.com/xcaq/yandex-contest'>yandex-contest</a></h6> 
         </td>
   </tr>
