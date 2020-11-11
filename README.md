@@ -1,6 +1,6 @@
 
-<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
-<h4>Currently i work at private orders but i always open for cooperation | Buy me a coffee: <a href="https://ko-fi.com/susboy">Ko-fi <img src="https://camo.githubusercontent.com/0671999cc88d1011a0de68cd040029b995edfaa9/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6b6f2d66692e737667" width="10"></a></h4>
+<h1>Guten Tag. I'm Kirill & I ❤️ code.</h1>
+<h4>Currently i work at private orders but i always open for cooperation | Read me: <a href="https://twitter.com/kiryssha">Twitter <img src="https://camo.githubusercontent.com/9bbddae7e626bda73c943e06b4568a7a02e193b4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10"></a></h4>
 <h5>⏰ 12 Thursday, 12:00&emsp;|&emsp;Latest follower – <a href="https://github.com/Joseph-Kishore/" target="_blank">Joseph Kishore</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        7 hrs 2 mins
+                        7 hrs 13 mins
                     </td>
                     <td>
-                        █████████░&nbsp;&nbsp;(98.37 %)
+                        █████████░&nbsp;&nbsp;(98.41 %)
                     </td>
                 </tr>
                 <tr>
@@ -47,7 +47,7 @@
                         5 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(1.34 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(1.3 %)
                     </td>
                 </tr>
                 <tr>
@@ -58,7 +58,7 @@
                         0 secs
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.23 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.22 %)
                     </td>
                 </tr></table>
 <hr>
