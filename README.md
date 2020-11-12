@@ -1,7 +1,7 @@
 
-<h1>Hola. I'm Kirill & I ❤️ code.</h1>
+<h1>Bonjour. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="mailto:git.xcaq@gmail.com">Email <img src="https://camo.githubusercontent.com/5bf17041186bbc591a286709593ee76baf2e4711/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" width="10"></a></h4>
-<h5>⏰ 13 Friday, 12:00&emsp;|&emsp;Latest follower – <a href="https://github.com/Joseph-Kishore/" target="_blank">Joseph Kishore</a>👋</h5>
+<h5>⏰ 13 Friday, 12:01&emsp;|&emsp;Latest follower – <a href="https://github.com/Joseph-Kishore/" target="_blank">Joseph Kishore</a>👋</h5>
 <hr>
 <h2>📝 Statistics: </h2>
 <table>
@@ -33,10 +33,10 @@
                         Python
                     </td>
                     <td>
-                        7 hrs 13 mins
+                        5 hrs 32 mins
                     </td>
                     <td>
-                        █████████░&nbsp;&nbsp;(98.41 %)
+                        █████████░&nbsp;&nbsp;(94.8 %)
                     </td>
                 </tr>
                 <tr>
@@ -44,21 +44,21 @@
                         HTML
                     </td>
                     <td width=145px;>
-                        5 mins
+                        13 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(1.3 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(3.89 %)
                     </td>
                 </tr>
                 <tr>
                     <td width=220px;>
-                        INI
+                        CSS
                     </td>
                     <td width=145px;>
-                        0 secs
+                        3 mins
                     </td>
                     <td width=230px;>
-                        ░░░░░░░░░░&nbsp;&nbsp;(0.22 %)
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.96 %)
                     </td>
                 </tr></table>
 <hr>
