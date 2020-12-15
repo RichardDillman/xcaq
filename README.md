@@ -1,5 +1,5 @@
 
-<h1>Hallo. I'm Kirill & I ❤️ code.</h1>
+<h1>Namaste. I'm Kirill & I ❤️ code.</h1>
 <h4>Currently i work at private orders but i always open for cooperation | Write to me: <a href="https://t.me/xxcaq">Telegram <img src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" width="10"></a></h4>
 <h5>⏰ 16 Wednesday, 12:00 | Latest follower – <a href="https://github.com/xssinj/" target="_blank">xssinj</a>👋</h5>
 <hr>
@@ -27,7 +27,40 @@
   </tr>
 </table>
 <h2>📊 Weekly development breakdown: </h2>
-<table>Wakatime goes brrr</table>
+<table>
+                <tr>
+                    <td width=215px;>
+                        Python
+                    </td>
+                    <td>
+                        4 hrs 31 mins
+                    </td>
+                    <td>
+                        █████████░&nbsp;&nbsp;(97.53 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        INI
+                    </td>
+                    <td width=145px;>
+                        6 mins
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(2.18 %)
+                    </td>
+                </tr>
+                <tr>
+                    <td width=220px;>
+                        Text
+                    </td>
+                    <td width=145px;>
+                        0 secs
+                    </td>
+                    <td width=230px;>
+                        ░░░░░░░░░░&nbsp;&nbsp;(0.29 %)
+                    </td>
+                </tr></table>
 <hr>
 <h4 align="center">Other – <a href='http://feschenko.org' target="_blank">feschenko.org</a><h4>
     
